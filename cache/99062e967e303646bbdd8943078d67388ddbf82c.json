@@ -1,0 +1,1 @@
+{"version": 0.6, "generator": "Overpass API 0.7.62.8 e802775f", "osm3s": {"timestamp_osm_base": "2025-11-29T17:08:46Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 6374242685, "lat": 25.9363224, "lon": 69.2457748, "tags": {"shop": "bakery"}}]}

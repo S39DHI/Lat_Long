@@ -1,0 +1,1 @@
+{"version": 0.6, "generator": "Overpass API 0.7.62.8 e802775f", "osm3s": {"timestamp_osm_base": "2025-11-29T17:03:40Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 4474605502, "lat": 28.2679693, "lon": 95.6145946, "tags": {"amenity": "bank", "name": "Apex Bank"}}]}
